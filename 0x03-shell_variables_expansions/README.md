@@ -1,1 +1,1 @@
-what the script does
+description of the functions
